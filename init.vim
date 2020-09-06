@@ -41,3 +41,5 @@ set inccommand=split
 if ('g:GuiLoaded')
     Guifont Ubuntu\ Mono:h18
 endif
+
+colorscheme desert
